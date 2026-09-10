@@ -1,0 +1,41 @@
+{
+  "model": "infinite-horizon no-income Merton; not CGM",
+  "iterations": 1800,
+  "seconds": 44.62619024999731,
+  "seed": 20260909,
+  "exact_alpha": 0.16227838857560145,
+  "learned_alpha_mean": 0.16235818465342336,
+  "alpha_max_abs_error": 0.0019454157563696117,
+  "exact_consumption_wealth_ratio": 0.0248255750129481,
+  "learned_ratio_mean": 0.024786631830617144,
+  "ratio_max_abs_error": 5.481779972078826e-05,
+  "value_coefficient_relative_error": 0.0001886613360833067,
+  "heldout_scaled_hjb_rms": 1.710508884078187e-06,
+  "history": [
+    {
+      "step": 0,
+      "residual_rms": 0.201273028958243
+    },
+    {
+      "step": 300,
+      "residual_rms": 0.012732968462727194
+    },
+    {
+      "step": 600,
+      "residual_rms": 0.00048187240102387795
+    },
+    {
+      "step": 900,
+      "residual_rms": 6.546521865744336e-06
+    },
+    {
+      "step": 1200,
+      "residual_rms": 2.632688906675991e-06
+    },
+    {
+      "step": 1500,
+      "residual_rms": 1.5448246449098532e-06
+    }
+  ],
+  "passed": true
+}

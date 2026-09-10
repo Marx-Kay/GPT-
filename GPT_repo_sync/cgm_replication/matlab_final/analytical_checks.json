@@ -1,0 +1,7 @@
+{
+  "test": "finite-horizon no-income CRRA with exact discrete-return solution",
+  "consumption_ratio_max_abs_error": 6.3143934525555778E-16,
+  "equity_share_max_abs_error": 5.6620708122068208E-11,
+  "exact_equity_share": 0.16541582526564969,
+  "passed": true
+}

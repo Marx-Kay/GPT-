@@ -1,0 +1,75 @@
+{
+  "figure2a": {
+    "page_1_based": 12,
+    "printed_page": 502,
+    "drawing_indices_age99": [
+      11,
+      324
+    ],
+    "y_top_border_value": 1.0996141685621297,
+    "x_affine": [
+      1.1530050201123414,
+      -110.16726487094623
+    ],
+    "warning": "Figure2A x is cash-on-hand (thousands of 1992 USD), not savings.",
+    "y_affine": [
+      -0.008694614321151112,
+      1.5873037804498167
+    ]
+  },
+  "figure3b": {
+    "page_1_based": 15,
+    "printed_page": 505,
+    "x_label_pdf_pt": [
+      109.94021606445312,
+      124.57540893554688,
+      139.21060180664062,
+      153.84579467773438,
+      168.48098754882812,
+      183.11679077148438,
+      197.7513885498047,
+      212.38719177246094,
+      227.0229949951172,
+      241.65879821777344,
+      256.2933883666992,
+      270.927978515625,
+      285.56378173828125,
+      300.2007751464844,
+      314.83477783203125,
+      329.4705810546875
+    ],
+    "x_label_values": [
+      20.0,
+      25.0,
+      30.0,
+      35.0,
+      40.0,
+      45.0,
+      50.0,
+      55.0,
+      60.0,
+      65.0,
+      70.0,
+      75.0,
+      80.0,
+      85.0,
+      90.0,
+      95.0
+    ],
+    "x_affine": [
+      0.3416381199972428,
+      -17.559634242927622
+    ],
+    "y_affine": [
+      -5.156790932474872,
+      1785.7815769576061
+    ],
+    "ratio_y_affine": [
+      -0.2578395466237437,
+      89.28907884788032
+    ],
+    "first_curve_age_as_printed": 18.07117401266617,
+    "x_axis_anomaly": "Age labels are offset by half a 5-year tick interval. Curves start near printed age 18 and end near 98. Do not force first curve point or first tick to age 20.",
+    "units": "NPV in thousands of 1992 USD; ratio dimensionless"
+  }
+}

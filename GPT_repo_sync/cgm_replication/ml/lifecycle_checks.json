@@ -1,0 +1,6 @@
+{
+  "generator_max_abs_error": 0.0,
+  "retirement_freeze_passed": true,
+  "wealth_boundary_passed": true,
+  "trained_lifecycle_solution": false
+}

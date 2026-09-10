@@ -1,0 +1,54 @@
+{
+  "repository": "https://github.com/econ-ark/CGMPortfolio",
+  "tree_sha": "faa95bf4d162c851aa81c622621c6e401f866c9b",
+  "downloaded_sources": [
+    {
+      "path": "Related/SourceCode/Fortran/EV.f90",
+      "git_blob_sha": "d426f112862e96a3b871f1d602c00fabef925575",
+      "sha256": "58d043a9d83fd4f1e24d0eb2e170778918dfe7cb1a534b76d5a72e6a6fe013e3",
+      "verified_against_tree": true
+    },
+    {
+      "path": "Related/SourceCode/Fortran/fci.f90",
+      "git_blob_sha": "74eb81a1283abe5e547a179f961ab39aff89cf7b",
+      "sha256": "9972e9ba4a2e86b55f6c4050aa14a514c68b4156244b34e725074b44b7e20c4a",
+      "verified_against_tree": true
+    },
+    {
+      "path": "Related/SourceCode/Fortran/ntoi.f90",
+      "git_blob_sha": "7ee355d58b1f878f80d8013d0d5673f5cda69556",
+      "sha256": "4e8bf7f591e1e95e28795795bf05a5f39862388ba8c4c8ac5f1d82ef6e8a13cc",
+      "verified_against_tree": true
+    },
+    {
+      "path": "Related/SourceCode/Fortran/splint.f90",
+      "git_blob_sha": "cfe3c58a03608b0e787de2baea9b968181f7b467",
+      "sha256": "489eca5da7e0f1a058beb1336fa6919f34c08fa4d6863ded93eedc4282e6a567",
+      "verified_against_tree": true
+    },
+    {
+      "path": "Related/SourceCode/Fortran/spline.f90",
+      "git_blob_sha": "97bac876d1b40c22908b8fab415c6ee9b8117020",
+      "sha256": "3369c691d9c814c15bc4e885ddfb4a84285c3dfea1d83dc2137adaf3f9c00d73",
+      "verified_against_tree": true
+    },
+    {
+      "path": "Related/SourceCode/Fortran/MAIN.f90",
+      "git_blob_sha": "1b32848781087b11b5bd47771d52568745a75209",
+      "sha256": "217f9e64d1980d3dfb4e1a187ecb746044d177b6eda65e276d407c58f522cc9f",
+      "verified_against_tree": true
+    },
+    {
+      "path": "Related/SourceCode/Fortran/utility.f90",
+      "git_blob_sha": "7e2cd0972648b429adf855f0a94cb83025e87d3d",
+      "sha256": "391aa7ddb6d5872e3a64cdba4ce4d6f467b30848573d61f1b0b3037814b37b18",
+      "verified_against_tree": true
+    },
+    {
+      "path": "Related/SourceCode/Fortran/EVR.f90",
+      "git_blob_sha": "10deb392eb9f45b2a3f0cf4f1666df2aefb24628",
+      "sha256": "4109835e7d24394617d093e73c87df6bfc9297c317527a7fccca3fa0c4fd3334",
+      "verified_against_tree": true
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "created_local": "2026-09-09T22:19:04.128377+08:00",
+  "entrypoint": "matlab_final/run_cgm.m",
+  "matlab_release": "R2026a",
+  "full_entrypoint_exit_code": 0,
+  "source_integrity": {
+    "Life_Cycle_Matlab/f_spline.m": {
+      "sha256": "96b0f2db7ffbca4209b72822d3005883dcc770633da2a633fc50944244a327f0",
+      "matches_original": true
+    },
+    "Life_Cycle_Matlab/f_randn.m": {
+      "sha256": "d9c0ad9bde493d01e723daa769bf286a3964ed7a50267e2c5891afcb3f9693f3",
+      "matches_original": true
+    },
+    "Life_Cycle_Matlab/Note.txt": {
+      "sha256": "b4740b509b54886e2356278c1e6f401da5de2da5613ffe952ae830ec9f8c7030",
+      "matches_original": true
+    },
+    "Life_Cycle_Matlab/f_ntoil.m": {
+      "sha256": "fc84b09b3fdff7da579b8e3efe61ef9bc53d86b0b381dcc4cc6b5ed004995f31",
+      "matches_original": true
+    },
+    "Life_Cycle_Matlab/f_sc_splint.m": {
+      "sha256": "08c41fa42d9791f4616f3e61b7aacb99d8764babf5d3df7fe6d0a898edef560a",
+      "matches_original": true
+    },
+    "Life_Cycle_Matlab/life_cycle.m": {
+      "sha256": "aab1707b12a0d24d81baf5f3e876d8a75d27b3423752ca3edff5e73fae82e4ec",
+      "matches_original": true
+    },
+    "Life_cycle_fortran/lifecycle.f90": {
+      "sha256": "4826f8d3cb0f72b06c769137898f27bf5d637bcee079395ae326b52d4184166d",
+      "matches_original": true
+    },
+    "Life_cycle_fortran/RANDN.F90": {
+      "sha256": "95773e1b099552390215f3ebfb7f136e6b00e72a6d53c778ba60d2502e8e0050",
+      "matches_original": true
+    },
+    "Life_cycle_fortran/sc_splint.f90": {
+      "sha256": "a680ef696e11309db6e3d9a46f96aee6796a83f4a057c867a221cb539bb61633",
+      "matches_original": true
+    },
+    "Life_cycle_fortran/ntoil.f90": {
+      "sha256": "e03fce810876e971e4dface139ee87a09ab5e9cd1ac22cbe7737257342aa9345",
+      "matches_original": true
+    },
+    "Life_cycle_fortran/spline.f90": {
+      "sha256": "2ee1832e8628a02a06de32f1cd97e080d44ea13594e4f44ca116665605d80464",
+      "matches_original": true
+    }
+  },
+  "matlab_files_sha256": {
+    "matlab_final/build_figures.m": "d769caa15b82d208fe1921c8f7362362e65c35b6b39f27971548a4917775acbf",
+    "matlab_final/cgm_evaluate_policy.m": "c6405cae87e7d955767a5b2e106c803cfc917faeb4898a37934e4ac3380c390b",
+    "matlab_final/cgm_income.m": "b522d7468d8731f805a1da1529bae7a3192f058c46e0381d7ae06473dfc716c5",
+    "matlab_final/cgm_parameters.m": "83bdf90f110c9410e6d69cf047fbf3425f3c868d09279d88a045e5b43c6368cd",
+    "matlab_final/cgm_simulate.m": "c88e266ac97e3e761a1f4d652f63993a69400088d493cfa1a7b83e94f06e7f7e",
+    "matlab_final/cgm_solve.m": "0813a4e9139f18a6ddf12fe8e207f1c187f7126bab545e5f9381713fb377064e",
+    "matlab_final/check_welfare_convergence.m": "1ef0f889cfca0b72c4dfa18f15a5052f9a233e31f28084928921518b473f534b",
+    "matlab_final/run_cgm.m": "b100a1210752acb7c38893c47c138080627ed90fa9925b79c09c46772e31e048",
+    "matlab_final/run_welfare.m": "5c9fe34137599bea84ea5a280708dbeda89f9c57f9d3e1a0e78dedceac1c24a2",
+    "matlab_final/validate_cgm.m": "6fb7f0273eaf4a081c7a4aaa01740088ee35285aeadd7bad9d648139797afef7",
+    "matlab_final/verify_analytical.m": "98f5b751d9c268714f398d6b70e9a8cccacda4ad8b19f4c59479ca7a8b19fd85"
+  },
+  "numerical_checks_passed": true,
+  "published_figure3_reproduced": false,
+  "welfare_convergence_evaluation_nodes": 11
+}

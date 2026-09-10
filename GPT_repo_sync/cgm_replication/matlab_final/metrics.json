@@ -1,0 +1,16 @@
+{
+  "figure2a_share_max_abs_error": 0.023982065842595324,
+  "figure2a_share_rmse": 0.0043120118430595095,
+  "persistent_wealth_peak": 433.38111446342077,
+  "peak_age": 66,
+  "peak_age_mean_wealth_se": 1.2055653515986511,
+  "paper_wealth_peak": 221.47597717632732,
+  "paper_mean_equity_age65": 0.49921051814016087,
+  "persistent_mean_equity_age65": 0.36523487482584838,
+  "historical_diagnostic_wealth_peak": 209.69140033501813,
+  "income_comparison_rmse": 0.38980014325206735,
+  "figure3_wealth_rmse": 155.32707375281464,
+  "figure3_alpha_rmse": 0.2845181037037432,
+  "numeric_model_validated": true,
+  "published_figure3_reproduced": false
+}
