@@ -1,0 +1,4 @@
+series,W@65,Wpeak,C@65,Cpeak,Y@65,Ypeak,a@65,apeak,W_RMSE_vs_paper,C_RMSE_vs_paper,Y_RMSE_vs_paper,a_RMSE_vs_paper
+paper (digitised Fig 3),221.476,221.476,35.5532,35.5532,32.3592,34.2199,0.4992,0.9996,,,,
+python re-implementation (this work),173.8579,180.5422,32.6346,45.9916,32.4026,33.5623,0.525,0.8137,26.1915,2.2523,0.3667,0.3138
+previous Matlab solver (repo),432.569,433.3811,45.8649,45.8649,32.2267,33.6419,418.9307,418.9307,155.3271,7.1552,0.3898,259.7469

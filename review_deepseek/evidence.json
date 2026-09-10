@@ -1,0 +1,41 @@
+{
+  "source_sha256": "b97977b8d0fc9d3319ac7eb704a1649803c5bedab6e538f81519d90b54a104a3",
+  "exact_last_decision_test": [
+    {
+      "cash": 0.5,
+      "python_consumption": 0.25,
+      "exact_consumption": 0.5,
+      "absolute_error": 0.25
+    },
+    {
+      "cash": 1.0,
+      "python_consumption": 0.5,
+      "exact_consumption": 0.8595373281079643,
+      "absolute_error": 0.35953732810796435
+    },
+    {
+      "cash": 2.0,
+      "python_consumption": 1.0,
+      "exact_consumption": 1.3746173898369398,
+      "absolute_error": 0.3746173898369398
+    },
+    {
+      "cash": 5.0,
+      "python_consumption": 2.5,
+      "exact_consumption": 2.9198575750238662,
+      "absolute_error": 0.4198575750238662
+    }
+  ],
+  "current_source_run": {
+    "seconds": 10.048561625008006,
+    "wealth_peak": 180.54222656950319,
+    "peak_age": 66,
+    "C65": 32.63456995215309,
+    "W65": 173.85794247172777,
+    "alpha65": 0.5249581527855093,
+    "C20": 8.186870057300307,
+    "Y20": 16.411627166717594
+  },
+  "solver_log_income_shock_covariance": 0.02796926884993599,
+  "paper_log_income_shock_covariance": 0.0
+}
