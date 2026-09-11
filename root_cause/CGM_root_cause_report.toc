@@ -1,0 +1,33 @@
+\contentsline {section}{\numberline {1}任务、基准与本文的判定标准}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}要回答的问题}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}判定标准}{3}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}论文基准的精确口径}{3}{subsection.1.3}%
+\contentsline {section}{\numberline {2}参数对照：我们是否严格采用了论文参数}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}论文参数}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}逐项对照}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}被明确记录的实现选择}{5}{subsection.2.3}%
+\contentsline {section}{\numberline {3}复现结果一：433 不是实现错误}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}两个独立实现给出同一答案}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}求解器自身的验收}{5}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}代码级审计：既有 Matlab 改造实现}{5}{subsection.3.3}%
+\contentsline {section}{\numberline {4}复现结果二：退休段政策函数被精确复现}{6}{section.4}%
+\contentsline {section}{\numberline {5}复现结果三：工作年段出现系统性偏离}{7}{section.5}%
+\contentsline {section}{\numberline {6}根因识别}{8}{section.6}%
+\contentsline {subsection}{\numberline {6.1}被识别出来的那一项}{8}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}单参数识别}{8}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}2\(\times \)2 分解：确认既有结论并给出机制}{9}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}三种等价的候选机制}{9}{subsection.6.4}%
+\contentsline {section}{\numberline {7}消融总表}{9}{section.7}%
+\contentsline {section}{\numberline {8}表 6：仍然没有复现，且与图 2／图 3 的识别不一致}{10}{section.8}%
+\contentsline {section}{\numberline {9}三方实现审计}{11}{section.9}%
+\contentsline {subsection}{\numberline {9.1}既有 Matlab 改造版}{11}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}历史 Fortran 线}{11}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}DeepSeek Python 线}{11}{subsection.9.3}%
+\contentsline {subsection}{\numberline {9.4}对既有“机器学习”结论的复核}{12}{subsection.9.4}%
+\contentsline {section}{\numberline {10}结论与建议表述}{12}{section.10}%
+\contentsline {subsection}{\numberline {10.1}本文可以下结论的部分}{12}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}不再使用的表述}{12}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3}建议给老师的表述}{13}{subsection.10.3}%
+\contentsline {subsection}{\numberline {10.4}下一步（按优先级）}{13}{subsection.10.4}%
+\contentsline {section}{\numberline {A}EGM 推导与实现口径}{13}{appendix.A}%
+\contentsline {section}{\numberline {B}文件与复跑命令}{14}{appendix.B}%
