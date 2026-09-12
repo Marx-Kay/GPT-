@@ -1,0 +1,8 @@
+# Numerical configuration decisions
+Before any publication comparison: 1001 log-spaced saving points, upper bound200, 9-node Gaussian shocks, 11-node validation, 2001-point and 11-node refinements, simulation N20000 seed20260911. Primary economic calibration frozen at printed Table2 precision. No economic parameter was subsequently changed.
+
+Welfare estimator development: fixed permanent exponential tilt reduced extreme original-measure utility tails but left large financial-tail noise. Conditional integration of current temporary income and predictable adaptive Gaussian tilts were implemented with exact prefix likelihood correction. Proposal changes do not change the target probability law. Choices are based on effective sample size, individual-path concentration and sampling precision, never proximity to published welfare. Final configuration and repeated-seed tests are stored with run outputs.
+
+Assertions: Euler maximum .002; normalized KKT .001; relative consumption-grid convergence .003; share convergence .015; wealth convergence .01; welfare convergence .03 percentage points. Direct Bellman improvement tolerates .0003 relative CE. Welfare Bellman/MC accepts |difference|≤4SE+.03 percentage points. These tolerances were declared before results comparison. No thresholds have been widened to pass failed tests.
+
+Asset-upper-bound check added after inspecting the simulated state support: largest observed normalized saving78.72 is below200; independently doubling the upper bound to400 changes the wealth path by ~3.1e-6 of its peak. This checks numerical coverage without modifying baseline. Final MC uses policy-specific predictable permanent and return Gaussian tilts; pooled SE is below.005 pp across five rules.

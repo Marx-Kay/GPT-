@@ -1,0 +1,23 @@
+{
+  "clean_outputs_deleted_before_run": true,
+  "old_mat_files_before_run": 0,
+  "default_matlab_path": true,
+  "source_hashes_match": true,
+  "independent_full_run_csv_max_differences": {
+    "figure2/errors.csv": 0,
+    "figure3/lifecycle.csv": 0,
+    "figure3/comparison.csv": 0,
+    "table6/welfare.csv": 0
+  },
+  "base_matlab_dependency_check": {
+    "products": {
+      "Name": "MATLAB",
+      "Version": "26.1",
+      "ProductNumber": 1,
+      "Certain": true
+    },
+    "project_file_count": 37,
+    "external_project_dependency": false
+  },
+  "completed": true
+}

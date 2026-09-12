@@ -1,0 +1,10 @@
+{
+  "products": {
+    "Name": "MATLAB",
+    "Version": "26.1",
+    "ProductNumber": 1,
+    "Certain": true
+  },
+  "project_file_count": 37,
+  "external_project_dependency": false
+}

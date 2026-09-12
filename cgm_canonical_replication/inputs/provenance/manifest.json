@@ -1,0 +1,164 @@
+[
+  {
+    "source": "cgm.pdf",
+    "original_filename": "cgm.pdf",
+    "file": "inputs/paper/cgm.pdf",
+    "sha256": "d880f12618077eea43705e46eafe5befd40c629b8995c183838ae37651f5f529",
+    "date": "2026-09-11",
+    "purpose": "Published economic specification",
+    "source_sha256": ""
+  },
+  {
+    "source": "GPT_repo_sync/cgm_replication/paper_targets/additional_extraction_metadata.json",
+    "original_filename": "additional_extraction_metadata.json",
+    "file": "inputs/paper_targets/additional_extraction_metadata.json",
+    "sha256": "9ad64d579c207744bbaa3b26d6d2f8ac6625116d31283060a1a2d8bc7c199bfa",
+    "date": "2026-09-11",
+    "purpose": "Publication target or extraction metadata, not model calibration",
+    "source_sha256": ""
+  },
+  {
+    "source": "GPT_repo_sync/cgm_replication/paper_targets/income_calibration_check.csv",
+    "original_filename": "income_calibration_check.csv",
+    "file": "inputs/paper_targets/income_calibration_check.csv",
+    "sha256": "e48e387d42dcd6de56e1507405e44fe2e838e545fe8b0c876507a80d331be5a4",
+    "date": "2026-09-11",
+    "purpose": "Publication target or extraction metadata, not model calibration",
+    "source_sha256": ""
+  },
+  {
+    "source": "GPT_repo_sync/cgm_replication/paper_targets/figure2a_age99_targets.csv",
+    "original_filename": "figure2a_age99_targets.csv",
+    "file": "inputs/paper_targets/figure2a_age99_targets.csv",
+    "sha256": "c0c3da674f778d923455b0a7bd79244b073f6d1667e51c81fd4894bc5473a6a4",
+    "date": "2026-09-11",
+    "purpose": "Publication target or extraction metadata, not model calibration",
+    "source_sha256": ""
+  },
+  {
+    "source": "GPT_repo_sync/cgm_replication/paper_targets/figure3_extraction_metadata.json",
+    "original_filename": "figure3_extraction_metadata.json",
+    "file": "inputs/paper_targets/figure3_extraction_metadata.json",
+    "sha256": "bcce02b62af61ae2fd92de236b7e2e36503f294c6b232960aafcf35cbe53423e",
+    "date": "2026-09-11",
+    "purpose": "Publication target or extraction metadata, not model calibration",
+    "source_sha256": ""
+  },
+  {
+    "source": "GPT_repo_sync/cgm_replication/paper_targets/figure3_raw_vector_points.csv",
+    "original_filename": "figure3_raw_vector_points.csv",
+    "file": "inputs/paper_targets/figure3_raw_vector_points.csv",
+    "sha256": "57b51f31f772909972d55b28b623e4428819ffafa37ce5446443a36b4b17cbe6",
+    "date": "2026-09-11",
+    "purpose": "Publication target or extraction metadata, not model calibration",
+    "source_sha256": ""
+  },
+  {
+    "source": "GPT_repo_sync/cgm_replication/paper_targets/figure3_annual_targets.csv",
+    "original_filename": "figure3_annual_targets.csv",
+    "file": "inputs/paper_targets/figure3_annual_targets.csv",
+    "sha256": "7ac3da7bf7d1d31c88017d414853d9f65be25aeee7af53e3f5577baef4d8af73",
+    "date": "2026-09-11",
+    "purpose": "Publication target or extraction metadata, not model calibration",
+    "source_sha256": ""
+  },
+  {
+    "source": "GPT_repo_sync/cgm_replication/paper_targets/figure3b_npv_income_targets.csv",
+    "original_filename": "figure3b_npv_income_targets.csv",
+    "file": "inputs/paper_targets/figure3b_npv_income_targets.csv",
+    "sha256": "b6c3d0c84b92f1e3ed482502ecce5197b9173d6f1f0d84822d89cfb1fe428bf7",
+    "date": "2026-09-11",
+    "purpose": "Publication target or extraction metadata, not model calibration",
+    "source_sha256": ""
+  },
+  {
+    "source": "GPT_repo_sync/cgm_replication/paper_targets/figure3b_npv_to_wealth_targets.csv",
+    "original_filename": "figure3b_npv_to_wealth_targets.csv",
+    "file": "inputs/paper_targets/figure3b_npv_to_wealth_targets.csv",
+    "sha256": "90eb8feef3a78d6b378531bbdab249fd4697032978b944ad37d1ff8a094a9f1d",
+    "date": "2026-09-11",
+    "purpose": "Publication target or extraction metadata, not model calibration",
+    "source_sha256": ""
+  },
+  {
+    "source": "GPT_repo_sync/cgm_replication/paper_targets/figure3b_npv_income_raw.csv",
+    "original_filename": "figure3b_npv_income_raw.csv",
+    "file": "inputs/paper_targets/figure3b_npv_income_raw.csv",
+    "sha256": "1fb009b37649de69aad0487a48856fbc5cce281cde7ddea017d1abce97abcf0e",
+    "date": "2026-09-11",
+    "purpose": "Publication target or extraction metadata, not model calibration",
+    "source_sha256": ""
+  },
+  {
+    "source": "GPT_repo_sync/cgm_replication/paper_targets/figure3b_npv_to_wealth_raw.csv",
+    "original_filename": "figure3b_npv_to_wealth_raw.csv",
+    "file": "inputs/paper_targets/figure3b_npv_to_wealth_raw.csv",
+    "sha256": "9cca43293c10a58148c75dc6a1251daac0bac34848d36e98de6a13558bc30e8a",
+    "date": "2026-09-11",
+    "purpose": "Publication target or extraction metadata, not model calibration",
+    "source_sha256": ""
+  },
+  {
+    "source": "GPT_repo_sync/cgm_replication/paper_targets/figure2a_age99_raw.csv",
+    "original_filename": "figure2a_age99_raw.csv",
+    "file": "inputs/paper_targets/figure2a_age99_raw.csv",
+    "sha256": "e2ca7b7a5e9dde4f28bab7cdbe9dd2d5f5666f725976644ab2c138d43958016b",
+    "date": "2026-09-11",
+    "purpose": "Publication target or extraction metadata, not model calibration",
+    "source_sha256": ""
+  },
+  {
+    "source": "GPT_repo_sync/cgm_canonical_prep/paper_targets_vector/fig11_targets.json",
+    "original_filename": "fig11_targets.json",
+    "file": "inputs/paper_targets/fig11_targets.json",
+    "sha256": "5156c7247e963d205d192366acd6ba332d690637edac0a5be5b35395bba2c244",
+    "date": "2026-09-11",
+    "purpose": "Staged PDF vector target; validate before use",
+    "source_sha256": ""
+  },
+  {
+    "source": "GPT_repo_sync/cgm_canonical_prep/paper_targets_vector/fig2_targets.json",
+    "original_filename": "fig2_targets.json",
+    "file": "inputs/paper_targets/fig2_targets.json",
+    "sha256": "80a5db03e4dd8897c0bee1b45f79aa31aeeb508ae479b723b71f3af055858b80",
+    "date": "2026-09-11",
+    "purpose": "Staged PDF vector target; validate before use",
+    "source_sha256": ""
+  },
+  {
+    "source": "GPT_repo_sync/cgm_replication/template_sources/matlab/life_cycle.m",
+    "source_sha256": "aab1707b12a0d24d81baf5f3e876d8a75d27b3423752ca3edff5e73fae82e4ec",
+    "original_filename": "life_cycle.m",
+    "file": "inputs/survival/survival.csv",
+    "sha256": "ca956874978ec4d0dd4f2d590e8d39655fd7a268fd25c0a66de66a57c065b7db",
+    "date": "2026-09-11",
+    "purpose": "Recovered NCHS-style table; paper p500 specifies agency but not table vintage; unverified implementation assumption"
+  },
+  {
+    "source": "inputs/paper/cgm.pdf",
+    "original_filename": "cgm.pdf",
+    "file": "inputs/paper/paper_text.txt",
+    "sha256": "b9547e8f08c889b13f7b2031eaa8c9c3426cf69ba25fbfe6d505ee399511e553",
+    "date": "2026-09-11",
+    "purpose": "Locally extracted paper text or raw vector objects; derived input",
+    "source_sha256": ""
+  },
+  {
+    "source": "inputs/paper/cgm.pdf",
+    "original_filename": "cgm.pdf",
+    "file": "inputs/paper_targets/pdf_vector_paths.json",
+    "sha256": "4410ed5768427e22bc0e3e63b1e1a3f455460887ad191bcae34f2b3416ac05b9",
+    "date": "2026-09-11",
+    "purpose": "Locally extracted paper text or raw vector objects; derived input",
+    "source_sha256": ""
+  },
+  {
+    "source": "GPT_repo_sync/cgm_replication/template_sources/matlab/life_cycle.m",
+    "source_sha256": "aab1707b12a0d24d81baf5f3e876d8a75d27b3423752ca3edff5e73fae82e4ec",
+    "original_filename": "life_cycle.m",
+    "file": "inputs/provenance/recovered_calibration_excerpt.txt",
+    "sha256": "179c2d52937bb63a2866a123bea0919f66f443068316c4b0dcdf456ef5d35c1b",
+    "date": "2026-09-11",
+    "purpose": "Recovered log income level and full precision; explicit assumptions/reference only"
+  }
+]

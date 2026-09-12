@@ -1,0 +1,150 @@
+[
+  {
+    "file": "src/cgm_ce_at.m",
+    "sha256": "d4420e5dae879d798929b066cccd5428b97e38be6f7f6e32972f8cca534868ac"
+  },
+  {
+    "file": "src/cgm_compare.m",
+    "sha256": "3793be665044145910ce3410b6b0790f2cfac320d8a8cd60c706e80397385497"
+  },
+  {
+    "file": "src/cgm_evaluate_policy.m",
+    "sha256": "fd2238d402edbd041f59b597d03b817790078d694cefddca119714fb4c9f5ed7"
+  },
+  {
+    "file": "src/cgm_human_capital.m",
+    "sha256": "b56da8724a31e8bbf7cfd100c0e3102b02a4ee94ab9ee954c2a070cdb509afb7"
+  },
+  {
+    "file": "src/cgm_income.m",
+    "sha256": "683f98dae3e9abe745c57063240ed10b95093d31f2bbe94c8a89bbd555575a73"
+  },
+  {
+    "file": "src/cgm_income_process.m",
+    "sha256": "1b927d60016e892245f88e23a4e9490124d156170e2166b29422113f3880359b"
+  },
+  {
+    "file": "src/cgm_initial.m",
+    "sha256": "7605f5d0f9352273122cc5a87d2e91183ff48269390086307f1ff5dc7bab8611"
+  },
+  {
+    "file": "src/cgm_mc_ensemble.m",
+    "sha256": "6f64513d5d996c387b5f52951eb5b4e4494653823a9764eb182f55cb625117a7"
+  },
+  {
+    "file": "src/cgm_paper_targets.m",
+    "sha256": "6ab97789878a2f7a7080f69633eb599435e6c10e265698ad30826f18b6283e53"
+  },
+  {
+    "file": "src/cgm_parameters.m",
+    "sha256": "b526f4706993d759e035efd1c50b729a54a3c188595188344077d17848218b63"
+  },
+  {
+    "file": "src/cgm_policy.m",
+    "sha256": "bdafc37e7a3732528bd695cb6194120983ad73db80678457e141ac969129941a"
+  },
+  {
+    "file": "src/cgm_provenance.m",
+    "sha256": "1b93efcd46e45464277337b6a4a049e1dd693c81a0289700d6d1dba0f0961e2a"
+  },
+  {
+    "file": "src/cgm_returns.m",
+    "sha256": "cc1759ce06f8fc8e36a758928f754789c9360a29a6e9dc8a43e95b31225b1c39"
+  },
+  {
+    "file": "src/cgm_rule_dp_step.m",
+    "sha256": "ef256c68c50e80df65176736434141c3b2b04ddb8134ef7dcd1b6329ece70336"
+  },
+  {
+    "file": "src/cgm_sensitivity.m",
+    "sha256": "63a9546b87141a15c9043d9f2981ed8ee3eab70e2bd6ef0d51e754c66e958fbc"
+  },
+  {
+    "file": "src/cgm_shocks.m",
+    "sha256": "e7801e0be5e4a27bf742b74bbc481b58bd2875d595940cf748c58a4fe5b2d484"
+  },
+  {
+    "file": "src/cgm_simulate.m",
+    "sha256": "cbd05e7833c32da659cec02490d8f4f4eb40eb2ed8343f631bf93927d247a3d7"
+  },
+  {
+    "file": "src/cgm_solve.m",
+    "sha256": "5cdbd8007f98df6525ce0c4f40575c93fe04c9c6490a2e1ac41537a1cf6547eb"
+  },
+  {
+    "file": "src/cgm_summary.m",
+    "sha256": "d8d3115df4b691d5dc3e2889b7cbd74c47cb35616e0d8378b5c4b1aa217b7032"
+  },
+  {
+    "file": "src/cgm_transition.m",
+    "sha256": "67d9c7effe11f7c8bacc844b796c13d8268d3bfd13c9d4ef1913938eee55ad3e"
+  },
+  {
+    "file": "src/cgm_welfare.m",
+    "sha256": "720e7ed6f43fee5174ec4ee098e1e082b704c9421c931f1a74b8afba2d1b4dee"
+  },
+  {
+    "file": "src/cgm_welfare_mc.m",
+    "sha256": "8334e3c7e26e0612016c1b689f4d59587880e124f2f031d8cf142e7bafd5b899"
+  },
+  {
+    "file": "src/cgm_welfare_rule.m",
+    "sha256": "333ee90062f07c32068f85f124eab9bf6144a1efcdcc324711baf76442ef3c8b"
+  },
+  {
+    "file": "src/numerical_config.m",
+    "sha256": "16073942852e6b9ae79269f3519a3f0703245190d9a24900782627a5f3d9b448"
+  },
+  {
+    "file": "src/write_json.m",
+    "sha256": "cb021aa76b014c7dc6105799b9e5f936b28f22204936bcf4f7e1d874c8161521"
+  },
+  {
+    "file": "tests/run_tests.m",
+    "sha256": "7ce84362e7511626b0699c78dc57a853b9ae64cda2a73768595bdd1826d915d6"
+  },
+  {
+    "file": "tests/test_analytical.m",
+    "sha256": "f1149667320de012e5ebbd05c50cca02c404c1cbda3871385edce54375195688"
+  },
+  {
+    "file": "tests/test_convergence.m",
+    "sha256": "848fed62b9004db538b28c4941c5285c162eddd0d9d470bb2d9ec56d0b92d382"
+  },
+  {
+    "file": "tests/test_extended.m",
+    "sha256": "e07cbfa4d7ea322414f81a3c6896592282a78f8fdc453a101b2b1fb8cec0a2be"
+  },
+  {
+    "file": "tests/test_mc_estimator.m",
+    "sha256": "0ac86b5181d653cbe84b8954e3899baab2649aae4102410e9451a233d8b03e03"
+  },
+  {
+    "file": "tests/test_optimality.m",
+    "sha256": "7e134f42f9709c3a13976399a8158bbbaf5c8bbfcb31346b85223f2f737e3850"
+  },
+  {
+    "file": "tests/test_primitives.m",
+    "sha256": "61419464399fba550fb56b23e29cc80adc0f147780f0ff4415379630c3708170"
+  },
+  {
+    "file": "tests/test_rule_optimality.m",
+    "sha256": "b8e207c4a0bae90d0ff9b6655a443c66d8f1e941e27a49468e0f430417966958"
+  },
+  {
+    "file": "tests/test_simulation.m",
+    "sha256": "cf909b568580d94c3ab9b0bdd1866da5756d85e1a47a294c1ada0d357bae3aca"
+  },
+  {
+    "file": "tests/test_upper_bound.m",
+    "sha256": "be486ceae01c8bbb4dd9e912d65a80edb81bdfd983abc601f0d0601e37c06171"
+  },
+  {
+    "file": "tests/test_welfare_convergence.m",
+    "sha256": "adb229cb121d22790974b1dcf108818b666f7ea57fba3ea27b82478f49fa438c"
+  },
+  {
+    "file": "run_all.m",
+    "sha256": "ad7ac492d11d34639ef3017aae2106e1bbff1fec1e77e5f7560704956e591cad"
+  }
+]

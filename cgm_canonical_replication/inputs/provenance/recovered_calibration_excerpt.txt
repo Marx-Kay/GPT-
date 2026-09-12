@@ -1,0 +1,6 @@
+NOT VERIFIED PAPER VALUES. Recovered source excerpt, lines21-25:
+aa          = -2.170042+2.700381;
+b1          = 0.16818;
+b2          = -0.0323371/10;
+b3          = 0.0019704/100;
+ret_fac     = 0.68212;

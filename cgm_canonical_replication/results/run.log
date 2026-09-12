@@ -1,0 +1,30 @@
+1. Parameters, primitives, analytical tests
+2. Canonical solve
+3. Independent Euler/KKT
+4. Grid and quadrature convergence
+Fine grid solve
+Higher quadrature solve
+5. Lifecycle simulation and consistency
+6. Figure 2 and Figure 3 publication comparisons
+7. Table 6, Bellman evaluation and independent welfare MC
+Welfare rule optimal
+Welfare rule 100_age
+Welfare rule no_income
+Welfare rule no_income_risk
+Welfare rule zero
+Welfare rule approximation
+Independent welfare MC seed 731029
+Independent welfare MC seed 731130
+Independent welfare MC seed 731231
+          rule          paper_loss    Bellman    paper_difference    MonteCarlo      MC_SE      MC_minus_Bellman    standardized_difference    solve_seconds
+    ________________    __________    _______    ________________    __________    _________    ________________    _______________________    _____________
+
+    "optimal"                 0             0              0                0              0                0                     0                20.717   
+    "100_age"             0.637       0.99188        0.35488          0.99291      0.0015131        0.0010348                0.6839               0.88185   
+    "no_income"           1.531        2.3286        0.79755            2.332      0.0037537        0.0034368               0.91557               0.84802   
+    "no_income_risk"      0.152       0.46645        0.31445          0.46531       0.002229       -0.0011394              -0.51116                5.2248   
+    "zero"                2.108        5.6669         3.5589           5.6734      0.0048433        0.0064835                1.3387               0.84325   
+    "approximation"       0.084        4.6178         4.5338           4.6208      0.0039349        0.0029802               0.75739               0.79325   
+
+8. Figure11 validation and disclosed assumption sensitivities
+ALL NUMERICAL GATES PASSED. Full run 378.47 seconds. Publication mismatches are reported.

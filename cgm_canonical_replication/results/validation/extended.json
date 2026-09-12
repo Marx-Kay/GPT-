@@ -1,0 +1,12 @@
+{
+  "transition_mean_z": 0.40218915978587233,
+  "transition_quadrature": 4.4408920985006262E-16,
+  "scale_invariance": 3.5527136788005009E-15,
+  "quantile_euler": [
+    4.4171810920090593E-7,
+    2.66941119069219E-6,
+    0.0007178152410693972
+  ],
+  "quantile_kkt": 2.4628382745693693E-6,
+  "passed": true
+}
